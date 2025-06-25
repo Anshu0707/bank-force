@@ -72,6 +72,6 @@ Entity Relationship Diagram:
 
 ## 📫 Contact
 
-**Anshuman** – [LinkedIn](#https://www.linkedin.com/in/anshuman-naithani/) • [Email](#anshumannaithani7@gmail.com)
+**Anshuman** – [LinkedIn](#www.linkedin.com/in/anshuman-naithani/) • [Email](#anshumannaithani7@gmail.com)
 
 > _Let’s connect if you’re building the future of fintech, CRM automation, or scalable cloud platforms._
