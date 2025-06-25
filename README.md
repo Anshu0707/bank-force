@@ -46,9 +46,11 @@
 
 ## 📸 Screenshots
 Software Design:
+-
 ![Screenshot 2025-06-25 210528](https://github.com/user-attachments/assets/d6da8230-ed93-4389-a71d-187dba4f8966)
 --
 Process Automation:
+-
 ![Screenshot 2025-06-25 210516](https://github.com/user-attachments/assets/1329a0bf-698b-4311-85f4-142ab8b501ad)
 --
 Workflow Rules:
@@ -63,12 +65,13 @@ Reports and Dashboards:
 ![Screenshot 2025-06-25 205236](https://github.com/user-attachments/assets/be75c566-923c-4fd4-96c1-48d28075dbcd)
 --
 Entity Relationship Diagram:
+-
 ![Screenshot 2025-06-25 205209](https://github.com/user-attachments/assets/053e6e26-a2fb-4785-a7e0-916bb3ea8883)
 
 ---
 
 ## 📫 Contact
 
-**Anshuman** – [LinkedIn](#) • [Email](#)
+**Anshuman** – [LinkedIn](#https://www.linkedin.com/in/anshuman-naithani/) • [Email](#anshumannaithani7@gmail.com)
 
 > _Let’s connect if you’re building the future of fintech, CRM automation, or scalable cloud platforms._
